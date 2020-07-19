@@ -1,8 +1,8 @@
 ### Hi there, Nanddeep Nachan here! 👋
 
-![](https://img.shields.io/badge/Microsoft-MVP-blue)
+![https://mvp.microsoft.com/en-us/PublicProfile/5003693?fullName=Nanddeep%20%20Nachan](https://img.shields.io/badge/Microsoft-MVP-blue)
 ![](https://img.shields.io/badge/Microsoft-MCT-red)
-![](https://img.shields.io/badge/Office%20365-Consultant-orange)
+![https://nanddeepnachanblogs.com/contact/](https://img.shields.io/badge/Office%20365-Consultant-orange)
 
 <!--
 **nanddeepn/nanddeepn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
