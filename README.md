@@ -16,3 +16,5 @@
 - 😄 Fun fact: When I was a kid, I dreamed to become a Driver, but I landed in Software world!
 - 📙 My publications: [Mastering Sharepoint Framework](https://www.amazon.in/Mastering-Sharepoint-Framework-Easy-Follow/dp/938932887X)
 - 📰 Read my blogs at: https://www.nanddeepnachanblogs.com
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=nanddeepn&show_icons=true)
