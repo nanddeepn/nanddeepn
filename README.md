@@ -14,7 +14,7 @@
 - 💬 Ask me about SharePoint, Office 365, SPFx
 - 📫 How to reach me: [@NanddeepNachan](https://twitter.com/NanddeepNachan) | [LinkedIn](https://www.linkedin.com/in/nanddeepnachan/)
 - 😄 Fun fact: When I was a kid, I dreamed to become a Driver, but I landed in Software world!
-- 📙 My publications: [Understanding Hybrid Environments in SharePoint 2019](https://www.amazon.com/Understanding-Hybrid-Environments-SharePoint-2019/dp/148426049X), [Mastering Sharepoint Framework](https://www.amazon.in/Mastering-Sharepoint-Framework-Easy-Follow/dp/938932887X)
+- 📙 My publications: [Understanding Hybrid Environments in SharePoint 2019](https://www.amazon.com/Understanding-Hybrid-Environments-SharePoint-2019/dp/148426049X), [Mastering SharePoint Framework](https://www.amazon.in/Mastering-Sharepoint-Framework-Easy-Follow/dp/938932887X)
 - 📰 Read my blogs at: https://www.nanddeepnachanblogs.com
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=nanddeepn&show_icons=true)
