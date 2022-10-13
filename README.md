@@ -18,3 +18,7 @@
 - 📰 Read my blogs at: https://www.nanddeepnachanblogs.com
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=nanddeepn&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nanddeepn&show_icons=true&locale=en&layout=compact)
+
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nanddeepn)
