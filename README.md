@@ -7,6 +7,7 @@
 <!--
 **nanddeepn/nanddeepn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+- 🥑 I’m organizer of [Pune Tech Community](https://www.meetup.com/pune-tech-community/) 
 - 🔭 I’m currently working on M365, SharePoint, MS Azure
 - 🌱 I’m currently learning Microsoft Graph, Microsoft Identity
 - 👯 I’m looking to collaborate on Community Contributions
