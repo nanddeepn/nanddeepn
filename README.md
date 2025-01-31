@@ -9,7 +9,7 @@
 -->
 - 🥑 I’m organizer of [Pune Tech Community](https://www.meetup.com/pune-tech-community/) 
 - 🔭 I’m currently working on M365, SharePoint, MS Azure
-- 🌱 I’m currently learning Microsoft Graph, Microsoft Identity
+- 🌱 I’m currently learning Microsoft Copilot, Azure AI
 - 👯 I’m looking to collaborate on Community Contributions
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about SharePoint, Office 365, SPFx
@@ -20,6 +20,7 @@
   - [Understanding Hybrid Environments in SharePoint 2019 (Apress)](https://www.amazon.com/Understanding-Hybrid-Environments-SharePoint-2019/dp/148426049X)
   - [Mastering SharePoint Framework (BPB Publications)](https://www.amazon.in/Mastering-Sharepoint-Framework-Easy-Follow/dp/938932887X)
 - 📰 Read my blogs at: https://www.nanddeepnachanblogs.com
+- ⏩ Visit my [YouTube channel](https://www.youtube.com/@NanddeepNachan?sub_confirmation=1)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=nanddeepn&show_icons=true)
 
